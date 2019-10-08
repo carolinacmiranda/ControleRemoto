@@ -1,6 +1,6 @@
 # Controle Remoto
 
-Esse programa foi criado com início de Programação Orientada a Objetos em Java.
+Este programa foi criado com início de Programação Orientada a Objetos em Java.
 
 Nesta aula, o aprendizado foi a criação de um Controle Remoto usando o conceito de Encapsulamento (proteção do código do programa).
 

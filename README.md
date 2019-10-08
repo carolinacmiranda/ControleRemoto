@@ -10,7 +10,7 @@ Para funcionamento:</br>
 
 1 - Baixar todo o programa no seu computador;</br>
 2 - Abri-lo na IDE de sua preferência;</br>
-3 - O método man está no caminho Aula6/src/aula6/Aula6.java;</br>
+3 - O método main está no caminho Aula6/src/aula6/Aula6.java;</br>
 4 - Foi criado uma interface Java chamada "Controlador" que está no caminho Aula6/src/aula6/Controlador.java;</br>
 5 - O código do programa com a classe "ControleRemoto" e que implementa a interface "Controlador" está no caminho Aula6/src/aula6/ControleRemoto.java.
 

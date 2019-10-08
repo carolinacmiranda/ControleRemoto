@@ -13,7 +13,7 @@ Para funcionamento:</br>
 5 - O código do programa com a classe "ControleRemoto" e que implementa a interface "Controlador" está no caminho Aula6/src/aula6/ControleRemoto.java.
 
 
-O Controle Remoto criado tem as seguintes opções:
+O Controle Remoto criado tem as seguintes opções:</br>
 1 - Ligar e desligar;</br>
 2 - Abrir e fechar menu;</br>
 3 - Aumentar e diminuir volume;</br>
